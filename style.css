@@ -1,0 +1,46 @@
+
+body{
+background-color: lightgreen;
+}
+p{
+color: yellow;
+font-family: Arial;
+}
+#lidl{
+	border-radius: 25px;
+padding: 20px;
+width: 320px;
+height: 160px;
+opacity: 0.8;
+}
+#titlu1{
+font-family: Verdana;
+font-size: 18;
+color: black;
+}
+img{
+border-radius: 25px;
+padding: 20px;
+width: 200px;
+height: 300px;
+opacity: 0.6;
+}
+h1{
+color: red;
+font-family: Arial;
+}
+li{
+color: blue;
+}
+h5{
+color: orange;
+font-family: Arial;
+}
+table, th, td{
+background-color: darkgreen;
+border: 1px solid black;
+}
+ol{
+background-color: darkgreen;
+border-style: double;
+}
